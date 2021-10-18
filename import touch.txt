@@ -1,0 +1,45 @@
+import touch
+import tocuh.importExec 
+from cuh.importExec import *
+from printer import printer, printer.printIt, printIt, prit
+from colour import *
+import window
+color = ["red", "blue", "green", "yellow", "orange", "black", "white", "brown"].setAsColour()
+color.shadesAll()
+tocuh=0
+def selectColour():
+    _s = sel(min(color.shades) ? max(color.shades) : (min(color.shades+max(color.shades))))
+
+def window():
+    global _s
+
+    win = Window()
+
+    win.setNewWindow()
+
+    touch = Touch()
+
+    win.TouchAble(True)
+
+    win.color("white".col())
+
+    if Touch():
+        for i in range(i):
+            touch ++
+            x = [touch.x]
+            y = [touch.y]
+            printColor(_s, x[i], y[i])
+            for j in range(Touch()):
+                return touchISABle(True)
+        
+        if TouchHoldedUp():
+            break
+
+        if Bin():
+            return (Bin("01010101011010101011110100101010101001010101010101000000000000000000000011010101001111101100100101010"))
+
+        if not in Bin() as Control() for set:
+            return (Control(async await return async await Bin(set)) as Control() for set)
+
+
+    
